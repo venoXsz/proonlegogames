@@ -297,7 +297,7 @@ function GChecker(inputObject, gameProcessedEvent)
 		if gcheck == false then
 			wait(0.5)
 			game.StarterGui:SetCore("SendNotification", {
-				Title = "    AIMWARE";
+				Title = "    venoXware.cc";
 				Text = "     Anti-Lock: Enabled";
 				Icon = "rbxassetid://7433444640";
 				Duration = 3;
@@ -307,7 +307,7 @@ function GChecker(inputObject, gameProcessedEvent)
 		elseif gcheck == true then
 			wait(0.5)
 			game.StarterGui:SetCore("SendNotification", {
-				Title = "    AIMWARE";
+				Title = "    venoXware.cc";
 				Text = "     Anti-Lock: Disabled";
 				Icon = "rbxassetid://7433444640";
 				Duration = 3;
